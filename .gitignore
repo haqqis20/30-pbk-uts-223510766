@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+<<<<<<< HEAD
 .DS_Store
 dist
 dist-ssr
@@ -17,10 +18,20 @@ coverage
 /cypress/videos/
 /cypress/screenshots/
 
+=======
+dist
+dist-ssr
+*.local
+
+>>>>>>> c411fc6 (UAS Menambah Refactor dan Album)
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
+<<<<<<< HEAD
+=======
+.DS_Store
+>>>>>>> c411fc6 (UAS Menambah Refactor dan Album)
 *.suo
 *.ntvs*
 *.njsproj

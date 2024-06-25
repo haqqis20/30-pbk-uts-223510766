@@ -32,7 +32,13 @@ import SupportIcon from './icons/IconSupport.vue'
     <a href="https://github.com/johnsoncodehk/volar" target="_blank" rel="noopener">Volar</a>. If
     you need to test your components and web pages, check out
     <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a> and
+<<<<<<< HEAD
     <a href="https://on.cypress.io/component" target="_blank">Cypress Component Testing</a>.
+=======
+    <a href="https://on.cypress.io/component" target="_blank" rel="noopener"
+      >Cypress Component Testing</a
+    >.
+>>>>>>> c411fc6 (UAS Menambah Refactor dan Album)
 
     <br />
 
@@ -83,4 +89,8 @@ import SupportIcon from './icons/IconSupport.vue'
     us by
     <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
   </WelcomeItem>
+<<<<<<< HEAD
 </template>
+=======
+</template>
+>>>>>>> c411fc6 (UAS Menambah Refactor dan Album)
